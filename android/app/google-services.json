@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161469489124",
+    "project_id": "milematchchat",
+    "storage_bucket": "milematchchat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161469489124:android:c39d3a1681f27d0494b1f1",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2KTtdwS5zkmiMwn-EhxqjjMKexX7ljQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

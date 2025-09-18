@@ -1,0 +1,2 @@
+/Users/sohil/StudioProjects/untitled/android/app/.cxx/Debug/38m1z28o/x86/CMakeFiles/edit_cache.dir
+/Users/sohil/StudioProjects/untitled/android/app/.cxx/Debug/38m1z28o/x86/CMakeFiles/rebuild_cache.dir
