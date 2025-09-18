@@ -16,8 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-#Add your firebase option file & you can run this code 
-
 #flutter version 3.29.3
 
 #setup your firebase account & firebase configuration with flutter app
